@@ -1,0 +1,60 @@
+html {
+  overflow-x: hidden;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+form {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+
+button {
+  margin-top: 15px;
+  background-color: #3863c3;
+}
+
+header {
+  background-color: #3863c3;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  color: #3863c3;
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 450px;
+  margin: 16px;
+  float: left;
+}
+button {
+  margin: 20px;
+  background-color: #3863c3;
+}
+
+.btn-primary {
+  margin-top: 5px;
+  background-color: #3863c3 !important;
+  border-color: #3863c3 !important;
+}
+
+.carousel {
+  background-color: #3863c3 !important;
+}
+
+.icon {
+  width: 50px;
+  margin-left: 20px;
+}
